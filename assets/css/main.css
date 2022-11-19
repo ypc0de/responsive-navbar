@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap");
+
+:root {
+  --primary-color: #0aa1dd;
+  --primary-font: "Montserrat", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  font-size: 1rem;
+  font-family: var(--primary-font);
+}
+
+/* table screen */
+@media screen and (min-width: 769px) {
+}
+
+/* large screen such as laptop */
+@media screen and (min-width: 1024px) {
+}
