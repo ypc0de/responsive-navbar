@@ -11,5 +11,3 @@
 - Click the green button (code)
 - Click Download ZIP
 - Extract the project
-
-📫
